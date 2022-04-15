@@ -132,3 +132,5 @@ dmypy.json
 
 # ----- PROJECT IGNORE FOLDERS ------- #
 .data/
+data/
+review/
