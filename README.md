@@ -14,8 +14,6 @@ Al the models done and the notebooks have been developed in google colab, making
 
 * [**week 01 - Classification and Main Components**](!)  
 
-  
-
   * [Prediction of types of ECG for PhysionNet's data](!https://github.com/LAMDAMielgo/saturdaysAI_dl_mad22/blob/1103300ed39c62575b858e6a6100841f72db7318/week_1/practice/DL_S1_Practice_ECG.ipynb).
 
     > Using a Sequential CNN based on a paper, reached a 95% accuracy, with an accuracy of 0.78% on arrhythmia cases (paper goal was 93%).
@@ -24,11 +22,7 @@ Al the models done and the notebooks have been developed in google colab, making
 
     > Using Kaggle's dataset for california house prices, the notebooks explores the prediction of the houses' ocean proximity.
     >
-    > 
-    >
     > Used geospatial techniques for feature engineering in order to create an approximation of urban density.
-    >
-    > 
     >
     > Reached a 93% accuracy on label **near_ocean**.
 
@@ -42,8 +36,6 @@ Al the models done and the notebooks have been developed in google colab, making
 
     > Using data augmentation and EfficientNetB0 for transfer learning.
     >
-    > 
-    >
     > Trained with only 40 images, so the goal was to train a good enough model, being very sensible to overfitting.
 
     
@@ -52,7 +44,7 @@ Al the models done and the notebooks have been developed in google colab, making
 
   * **[# no practice]**
 
-  * Head pose object detection
+  * [Head pose object detection](!)
 
     The objective of the practice is to detect to which direction a person is looking (head orientation) using [this](!http://crowley-coutaz.fr/Head%20Pose%20Image%20Database.html) database.
 
