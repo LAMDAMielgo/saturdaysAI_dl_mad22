@@ -16,17 +16,21 @@ Al the models done and the notebooks have been developed in google colab, making
 
   
 
-  * [Prediction of types of ECG for PhysionNet's data](!https://github.com/LAMDAMielgo/saturdaysAI_dl_mad22/blob/1103300ed39c62575b858e6a6100841f72db7318/week_1/practice/DL_S1_Practice_ECG.ipynb)
+  * [Prediction of types of ECG for PhysionNet's data](!https://github.com/LAMDAMielgo/saturdaysAI_dl_mad22/blob/1103300ed39c62575b858e6a6100841f72db7318/week_1/practice/DL_S1_Practice_ECG.ipynb).
 
-    Using a Sequential CNN based on a paper, reached a 95% accuracy, with an accuracy of 0.78% on arrhythmia cases (paper goal was 93%).
+    > Using a Sequential CNN based on a paper, reached a 95% accuracy, with an accuracy of 0.78% on arrhythmia cases (paper goal was 93%).
 
   * [Prediction of categorical proximity to ocean for California Real Estate data](!https://github.com/LAMDAMielgo/saturdaysAI_dl_mad22/blob/1103300ed39c62575b858e6a6100841f72db7318/week_1/challenge/DL_S1_Challenge_Oceans.ipynb)
 
-    Using Kaggle's dataset for california house prices, the notebooks explores the prediction of the houses' ocean proximity.
-
-    Used geospatial techniques for feature engineering in order to create an approximation of urban density.
-
-    Reached a 93% accuracy on label **near_ocean**.
+    > Using Kaggle's dataset for california house prices, the notebooks explores the prediction of the houses' ocean proximity.
+    >
+    > 
+    >
+    > Used geospatial techniques for feature engineering in order to create an approximation of urban density.
+    >
+    > 
+    >
+    > Reached a 93% accuracy on label **near_ocean**.
 
     
 
@@ -36,9 +40,11 @@ Al the models done and the notebooks have been developed in google colab, making
 
   * [Image classifier Gandalf vs Dumbledore.](!https://github.com/LAMDAMielgo/saturdaysAI_dl_mad22/blob/main/week_2/challenge/DL_S2_CNN_Challenge_GvD.ipynb)
 
-    Using data augmentation and EfficientNetB0 for transfer learning.
-
-    Trained with only 40 images, so the goal was to train a good enough model, being very sensible to overfitting.
+    > Using data augmentation and EfficientNetB0 for transfer learning.
+    >
+    > 
+    >
+    > Trained with only 40 images, so the goal was to train a good enough model, being very sensible to overfitting.
 
     
 
