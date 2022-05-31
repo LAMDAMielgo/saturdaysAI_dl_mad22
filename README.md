@@ -44,20 +44,20 @@ Al the models done and the notebooks have been developed in google colab, making
 
   * **[# no practice]**
 
-  * [Head pose object detection](!)
+  * [Head pose object detection](!https://github.com/LAMDAMielgo/saturdaysAI_dl_mad22/blob/main/week_3/challenge/DL_S3_OD_Challenge_Headpose.ipynb)
 
     The objective of the practice is to detect to which direction a person is looking (head orientation) using [this](!http://crowley-coutaz.fr/Head%20Pose%20Image%20Database.html) database.
 
 * [**week 04 - Autoencoders and intro to Generative DL**](!)  
 
-  * VAE for (sic?)
-  * Compression of Youtube video to create new video frames
+  *  **[ #todo ]** VAE to generate pixel digits with MNIST
+  * [Compression of Youtube video to create new video frames](!)
   * 
 
 * [**week 05 - Reinforcement Learning**](!)  
 
-  * Actor-Critic for 
-  * 
+  * **[# no practice]** 
+  * [Actor-Critic Method for RL]()
 
 * [**week 06 - DL for NLP**](!)
 

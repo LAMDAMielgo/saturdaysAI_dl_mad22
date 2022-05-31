@@ -135,3 +135,4 @@ dmypy.json
 .data/
 data/
 review/
+model_nopush/
