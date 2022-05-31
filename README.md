@@ -12,7 +12,7 @@ Al the models done and the notebooks have been developed in google colab, making
 
 ### Contents:
 
-* [**week 01 - Classification and Main Components**](!)  
+* [**week 01 - Classification and Main Components**]
 
   * [Prediction of types of ECG for PhysionNet's data](!https://github.com/LAMDAMielgo/saturdaysAI_dl_mad22/blob/1103300ed39c62575b858e6a6100841f72db7318/week_1/practice/DL_S1_Practice_ECG.ipynb).
 
@@ -28,7 +28,7 @@ Al the models done and the notebooks have been developed in google colab, making
 
     
 
-* [**week 02 - Convolutional Neural Networks**](!)
+* [**week 02 - Convolutional Neural Networks**]
 
   * **[ #todo ]** Image classifier cats vs dogs
 
@@ -40,26 +40,33 @@ Al the models done and the notebooks have been developed in google colab, making
 
     
 
-* [**week 03 - Object Detection and Segmentation**](!)  
+* [**week 03 - Object Detection and Segmentation**]
 
   * **[# no practice]**
 
   * [Head pose object detection](!https://github.com/LAMDAMielgo/saturdaysAI_dl_mad22/blob/main/week_3/challenge/DL_S3_OD_Challenge_Headpose.ipynb)
 
-    The objective of the practice is to detect to which direction a person is looking (head orientation) using [this](!http://crowley-coutaz.fr/Head%20Pose%20Image%20Database.html) database.
+    > The objective of the practice is to detect to which direction a person is looking (head orientation) using [this](!http://crowley-coutaz.fr/Head%20Pose%20Image%20Database.html) database.
 
-* [**week 04 - Autoencoders and intro to Generative DL**](!)  
+
+* [**week 04 - Autoencoders and intro to Generative DL**]
 
   *  **[ #todo ]** VAE to generate pixel digits with MNIST
   * [Compression of Youtube video to create new video frames](!)
   * 
 
-* [**week 05 - Reinforcement Learning**](!)  
+* [**week 05 - Reinforcement Learning**]
 
-  * **[# no practice]** 
-  * [Actor-Critic Method for RL]()
+  * **[# practice todo]** 
+  * [Actor-Critic Method for RL](!https://github.com/LAMDAMielgo/saturdaysAI_dl_mad22/blob/main/week_5/challenge/DL_S5_RL_Challenge_Actor_Critic.ipynb)
+    > By using gym framework for RL, We have trained how the classic CartPole exercise with training two models: Actor and Critic.
 
-* [**week 06 - DL for NLP**](!)
+
+* [**week 06 - DL for NLP**]
+
+  * **[# practice todo]** 
+  * [text2text generation and summarizer with hugging face](!https://github.com/LAMDAMielgo/saturdaysAI_dl_mad22/blob/main/week_6/challenge/DL_S6_NLP_Challenge.ipynb) 
+    > Generation of Review titles for Women's clothing using text2text generation and text summarization from the hugging face framework.
 
 ---
 
